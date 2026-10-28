@@ -10,7 +10,7 @@ An end-to-end data analysis project on daily Air Quality Index (AQI) readings fr
 
 | Overview | Trends and Seasons | Cities and Extremes |
 |---|---|---|
-| ![Overview](powerbi_dashboard/screenshots/page1_overview.png) | ![Trends](powerbi_dashboard/screenshots/page2_trends.png) | ![Cities](powerbi_dashboard/screenshots/page3_cities.png) |
+| ![Overview](PowerBi_dashboard/screenshots/page1_Overview.png) | ![Trends](PowerBi_dashboard/screenshots/page2_Trends%26Seasons.png) | ![Cities](PowerBi_dashboard/screenshots/page3_Cities%26Extremes.png) ||
 
 The dashboard file is `powerbi_dashboard/aqi_dashboard.pbix` (open it with Power BI Desktop, which is free for Windows).
 
